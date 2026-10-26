@@ -221,5 +221,5 @@ __marimo__/
 .streamlit/secrets.toml
 
 # project files
-results/
-creditcard.csv
+lab2/results/
+lab2/creditcard.csv
