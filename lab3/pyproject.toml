@@ -1,0 +1,13 @@
+[project]
+name = "lab3"
+version = "0.1.0"
+description = "ЛР3. Обчислювальний експеримент і трансферне навчання"
+requires-python = ">=3.12"
+dependencies = [
+    "torch",
+    "torchvision",
+    "numpy",
+    "scikit-learn",
+    "matplotlib",
+    "pillow",
+]
